@@ -1,7 +1,7 @@
 <h1> EC2 </h2>
-<center>
+<div align="center">
   <img src="https://github.com/user-attachments/assets/0c7b6fa4-cb62-4839-bac9-e37d8aad1645" alt="ec2"/> 
-</center>
+</div>
 <hr>
 - 안전하고 크기 조정이 가능한 컴퓨팅 파워를 클라우드에서 제공하는 웹 서비스.
 - 개발자가 더 쉽게 웹 규모의 클라우드 컴퓨팅 작업을 할 수 있도록 설계.
